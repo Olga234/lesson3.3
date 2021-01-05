@@ -1,0 +1,33 @@
+html, body {
+  margin: 0 auto;
+}
+
+
+.text-box {
+
+  .first {
+    color: pink;
+  }
+
+  #greycol {
+    color: grey;
+  }
+
+  div {
+    p {
+      color: red;
+    }
+  }
+
+  h3[title] {
+    color: blue;
+  }
+
+  .green {
+    color: green;
+  }
+
+  .yellow {
+    color: yellow;
+  }
+}

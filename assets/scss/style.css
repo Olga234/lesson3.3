@@ -1,0 +1,17 @@
+html, body {
+  margin: 0 auto; }
+
+.text-box .first {
+  color: pink; }
+.text-box #greycol {
+  color: grey; }
+.text-box div p {
+  color: red; }
+.text-box h3[title] {
+  color: blue; }
+.text-box .green {
+  color: green; }
+.text-box .yellow {
+  color: yellow; }
+
+/*# sourceMappingURL=style.css.map */
